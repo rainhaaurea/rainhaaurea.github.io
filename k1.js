@@ -1,4 +1,4 @@
-/*Códigos do Professor José Assis*/
+
 
 function nockout(){
 	document.getElementById("suely").src="aanock.gif";
