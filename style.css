@@ -1,0 +1,35 @@
+
+
+header{
+	width:100%;	
+	display:flex;
+	justify-content:space-around;
+	align-items:center;
+}
+
+	
+	
+
+body{
+	font-family: Papyrus;
+	font-size:25px;
+	background-image:radial-gradient(#000000,#FF0000);
+	color:yellow;	
+	text-align:center;
+}
+	
+	
+	
+	.container{
+		background-color:black;
+		color:white;
+		
+	
+	}
+	img{
+		max-width:100%;
+	}
+	
+	
+	
+	
