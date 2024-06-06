@@ -1,0 +1,42 @@
+*{
+	
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	list-style:none;
+}
+
+
+
+body{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+	
+}
+.suely{
+	font-family:Impact;
+	font-size:2em;
+	color:wine;
+	gap:1%;
+		
+	
+	
+}
+.m{
+font-size:7em;
+color:red;
+font-family:Cooper black;
+}
+.p{
+}
+	h1{
+	font-family:Impact;
+	color:red;
+	
+}
+.card{
+	width:100px;
+	
+}
+	
