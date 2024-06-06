@@ -1,4 +1,4 @@
-/*Códigos do Professor José Assis*/
+
 
 
 function silva(){
