@@ -31,5 +31,16 @@ body{
 	}
 	
 	
-	
+button{
+		color:#000;
+	border-radius:20px;
+	height:35px;
+	width:170px;
+	text-transform:uppercase;	
+	border:2px solid #791fd3;
+	background-color:#beff1b;
+
+	cursor:pointer;
+	font-weight:bold;
+}	
 	
