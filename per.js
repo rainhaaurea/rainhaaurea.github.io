@@ -1,4 +1,5 @@
 
+
     
 	let sim =document.querySelector('#ck')
 	let pontos = 3
