@@ -11,11 +11,11 @@ function certo(){
 	alert('Parabéns!')
 	
 	}else{
-		alert('Infelizmente não. Tente novamente')
+		alert(`Infelizmente não foi ${sim}. Tente novamente`)
 		pontos-=1
 		console.log(pontos)
 		if (pontos<0){
-			alert('fim de jogo')
+			alert('Fim de jogo')
 	
 	
 }
