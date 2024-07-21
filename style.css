@@ -42,5 +42,8 @@ button{
 
 	cursor:pointer;
 	font-weight:bold;
-}	
+}
+li a {
+	color:white;
+}
 	
