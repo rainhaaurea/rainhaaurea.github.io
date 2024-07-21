@@ -18,6 +18,9 @@ body{
 	text-align:center;
 }
 	
+ a {
+	color: white;
+}
 	
 	
 	.container{
@@ -42,8 +45,5 @@ button{
 
 	cursor:pointer;
 	font-weight:bold;
-}
- a {
-	color:white;
 }
 	
