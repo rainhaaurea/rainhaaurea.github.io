@@ -6,8 +6,7 @@
 
 function certo(){
 
-	if (sim.value.toUpperCase() == "ARFAXADE"){
-     
+	if (sim.value.toUpperCase() == "ARFAXADE"){     
 	
 	alert('Parabéns!')
 	
