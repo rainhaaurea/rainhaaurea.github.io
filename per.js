@@ -10,7 +10,7 @@ function certo(){
 	alert('Parabéns!')
 	
 	}else{
-		alert(`Infelizmente não. Tente novamente`)
+		alert('Infelizmente não. Tente novamente.')
 		pontos-=1
 		console.log(pontos)
 		if (pontos<0){
