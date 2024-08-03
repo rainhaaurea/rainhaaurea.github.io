@@ -23,16 +23,17 @@ let pontos = 0
  
  console.log(pontos);
 	 if (cent.value.toUpperCase() == 'CORNÉLIO'){
-		 pontos +=20
 		 alert('Parabéns. Você acertou.')
+		 pontos +=20
+		 
 		 console.log(pontos)
 	 if(sho.value.toUpperCase() =='Edom'){
 		 pontos +=50
-		 alert('Parabéns")
+		 
 		 console.log(pontos)
 	 if (eut.value.toUpperCase() =='EUTICO'){
 		 pontos+=100
-			 alert('Parabéns')
+			 
 		 console.log(pontos)
 	 }
 	 }
