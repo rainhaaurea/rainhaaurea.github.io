@@ -23,7 +23,7 @@ let pontos = 0
  
  console.log(pontos);
 	 if (cent.value.toUpperCase() == 'CORNÉLIO'){
-		 alert('Parabéns. Você acertou.')
+		 
 		 pontos +=20
 		 
 		 console.log(pontos)
