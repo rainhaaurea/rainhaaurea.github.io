@@ -112,7 +112,7 @@ function ter(){
 
 }
 	function soa(){
-	document.getElementById("r1").src="astrol.png";
+	document.getElementById("r1").src="mt.png";
     
 	
 	}
@@ -127,7 +127,7 @@ function ly(){
 
 }
 	function ela(){
-	document.getElementById("r2").src="astrol.png";
+	document.getElementById("r2").src="mt.png";
     
 	
 	}
@@ -141,7 +141,7 @@ function res(){
 
 }
 	function ai(){
-	document.getElementById("r3").src="astrol.png";
+	document.getElementById("r3").src="mt.png";
     
 	
 	}
@@ -155,7 +155,7 @@ function xis(){
 
 }
 	function kam(){
-	document.getElementById("r4").src="astrol.png";
+	document.getElementById("r4").src="mt.png";
     
 	
 	}
@@ -170,7 +170,7 @@ function ça(){
 
 }
 	function fu(){
-	document.getElementById("r5").src="astrol.png";
+	document.getElementById("r5").src="mt.png";
     
 	
 	}
@@ -184,7 +184,7 @@ function kiri (){
 
 }
 	function zyr(){
-	document.getElementById("r6").src="astrol.png";
+	document.getElementById("r6").src="mt.png";
     
 	
 	}
@@ -199,7 +199,7 @@ function quey(){
 
 }
 	function mo(){
-	document.getElementById("r7").src="astrol.png";
+	document.getElementById("r7").src="mt.png";
     
 	
 	}
@@ -213,7 +213,7 @@ function bu(){
 
 }
 	function ras(){
-	document.getElementById("r8").src="astrol.png";
+	document.getElementById("r8").src="mt.png";
     
 	
 	}
@@ -227,7 +227,7 @@ function ka(){
 
 }
 	function luz(){
-	document.getElementById("r9").src="astrol.png";
+	document.getElementById("r9").src="mt.png";
     
 	
 	}

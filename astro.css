@@ -6,7 +6,12 @@
 	list-style:none;
 }
 
-
+.su h1{
+	font-size:80px;
+	color:purple;
+	text-align:center;
+	
+}
 
 body{
 	margin:0;
@@ -15,24 +20,42 @@ body{
 	
 }
 .suely{
+	text-align:center;
 	font-family:Impact;
 	font-size:2em;
-	color:wine;
+	color:blue;
 	gap:1%;
 		
 	
 	
 }
 .m{
+	margin:50;
+	padding:0;
 font-size:7em;
-color:red;
-font-family:Cooper black;
+color:purple;
+font-family:Impact;
 }
 .p{
+	background-color:purple;
+	color:white;
+	font-size:20px;
+	
+	border-radius:20px;
+	color:#ffff;
+	padding:10px 20px;
+	border:none;
+	border-radius:10px;
+	cursor:pointer;
+	margin-top:20px;
 }
 	h1{
 	font-family:Impact;
 	color:red;
+	margin-top:50px;
+	font-size:40px;
+	
+	
 	
 }
 .card{
@@ -40,3 +63,10 @@ font-family:Cooper black;
 	
 }
 	
+#card{
+	font-family:Impact;
+	color:black;
+	font-size:60px;
+	background-color:yellow;
+	margin-bottom:50;
+}
