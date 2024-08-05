@@ -61,6 +61,7 @@ section{
 		
 }
 .content{
+	color:yellow;
 	position:absolute;
 	right:100px;
 	width:70%;
@@ -83,28 +84,30 @@ h2{
 	line-height:1em;
 	
 	
+	
 }
 .description{
-	color:#beff1b;
+	color:white;
 	font-size:20px;
 	text-align:right;
 	max-width:400px;
 }
-.button{
-	border-radius:30px;
+button{
+		color:#000;
+	border-radius:20px;
 	height:35px;
-	width:120px;
+	width:170px;
 	text-transform:uppercase;	
 	border:2px solid #791fd3;
 	background-color:#beff1b;
-	color:#000;
+
 	cursor:pointer;
 	font-weight:bold;
 	
+	
+	
 }
-
-
-
+	
 .indicators{
 	position:absolute;
 	top:70%
