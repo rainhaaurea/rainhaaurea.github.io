@@ -90,7 +90,7 @@ h2{
 	text-align:right;
 	max-width:400px;
 }
-/*.information{
+.information{
 	border-radius:30px;
 	height:35px;
 	width:120px;
@@ -103,7 +103,7 @@ h2{
 	
 }
 
-*/
+
 
 .indicators{
 	position:absolute;
